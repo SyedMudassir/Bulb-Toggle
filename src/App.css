@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+img {
+  height: 200px;
+  width:200px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  margin-top: 10px;
+}
